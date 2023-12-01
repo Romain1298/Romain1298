@@ -27,10 +27,6 @@
 
 - ⚡ Fun fact **Je pense que je suis drôle**
 
-<img src="https://raw.githubusercontent.com/Romain1298/Romain1298/output/snake.svg" alt="Snake animation" />
-
-###
-
 ###
 
 <h3 align="left">Connect with me:</h3>
