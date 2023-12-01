@@ -9,13 +9,13 @@
 
 - 🌱 J'apprends actuellement **Symfony, JS**
 
-- 👨‍💻 Tous mes projets sont disponibles à l'adresse suivante [Pas encore à jour :)](Pas encore à jour :))
+- 👨‍💻 Tous mes projets sont disponibles à l'adresse suivante. (Pas encore à jour :)
 
 - 💬 Interrogez-moi sur **PHP, HTML, CSS, C#, SQL**
 
 - 📫 Comment me joindre **romainf039@gmail.com**
 
-- 📄 Connaître mes expériences [6 certifications et + en cours](6 certifications et + en cours)
+- 📄 Connaître mes expériences. (6 certifications et + en cours)
 
 - ⚡ Fun fact **Je pense que je suis drôle**
 
