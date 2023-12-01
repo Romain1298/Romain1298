@@ -1,55 +1,35 @@
-# Bienvenue sur mon profil ! 👋
+<h1 align="center">Salut 👋, Je suis Romain1298</h1>
+<h3 align="center">Un développeur full-stack junior passionné, originaire de France</h3>
 
-- 📫 Contactez-moi sur **romainf039@gmail.com**
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=romain1298&label=Profile%20views&color=0e75b6&style=flat" alt="romain1298" /> </p>
 
-[![Dreeckan](https://github-profile-trophy.vercel.app/?username=dreeckan&theme=onedark&rank=SECRET,SSS,SS,S,AAA,AA,A&no-bg=true&no-frame=true&margin-w=16)](https://github.com/ryo-ma/github-profile-trophy)
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=romain1298" alt="romain1298" /></a> </p>
 
-## Me retrouver
+- 🔭 Je travaille actuellement sur [infirmerie](https://github.com/Romain1298/infirmerie.git)
 
-[![YouTube](https://img.shields.io/badge/-YouTube-000?&logo=YouTube&logoColor=F00)](https://www.youtube.com)
-[![LinkedIn](https://img.shields.io/badge/-GitHub-000?&logo=GitHub&logoColor=FFF)](https://github.com/Romain1298/)
+- 🌱 J'apprends actuellement **Symfony, JS**
 
-## Languages et outils
+- 👨‍💻 Tous mes projets sont disponibles à l'adresse suivante [Pas encore à jour :)](Pas encore à jour :))
 
-[![PHP](https://img.shields.io/badge/-PHP-000?&logo=PHP&logoColor=777BB4)](https://www.php.net)
-[![HTML5](https://img.shields.io/badge/-HTML5-000?&logo=HTML5&logoColor=E34F26)](https://www.w3.org/html/)
-[![CSS3](https://img.shields.io/badge/-CSS3-000?&logo=CSS3&logoColor=1572B6)](https://developer.mozilla.org/fr/docs/Web/CSS)
+- 💬 Interrogez-moi sur **PHP, HTML, CSS, C#, SQL**
 
+- 📫 Comment me joindre **romainf039@gmail.com**
 
-[![Symfony](https://img.shields.io/badge/-Symfony-000?&logo=Symfony&logoColor=FFF)](https://symfony.com)
+- 📄 Connaître mes expériences [6 certifications et + en cours](6 certifications et + en cours)
 
-[![MySQL](https://img.shields.io/badge/-MySQL-000?&logo=MySQL&logoColor=4479A1)](https://www.mysql.com/)
+- ⚡ Fun fact **Je pense que je suis drôle**
 
-[![Linux](https://img.shields.io/badge/-Linux-000?&logo=Linux&logoColor=FCC624)](https://www.linux.org/)
-[![Git](https://img.shields.io/badge/-Git-000?&logo=Git&logoColor=F05032)](https://git-scm.com/)
-[![GitHub](https://img.shields.io/badge/-GitHub-000?&logo=GitHub&logoColor=FFF)](https://www.github.com/)
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://instagram.com/romainfnds" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="romainfnds" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/romainfernandes92" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="romainfernandes92" height="30" width="40" /></a>
+</p>
 
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://symfony.com" target="_blank" rel="noreferrer"> <img src="https://symfony.com/logos/symfony_black_03.svg" alt="symfony" width="40" height="40"/> </a> <a href="https://unrealengine.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/kenangundogan/fontisto/036b7eca71aab1bef8e6a0518f7329f13ed62f6b/icons/svg/brand/unreal-engine.svg" alt="unreal" width="40" height="40"/> </a> </p>
 
-## En apprentissage / perfectionnement
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=romain1298&show_icons=true&locale=en&layout=compact" alt="romain1298" /></p>
 
-[![Symfony](https://img.shields.io/badge/-Symfony-000?&logo=Symfony&logoColor=FFF)](https://symfony.com)
-[![Figma](https://img.shields.io/badge/-Figma-000?&logo=Figma&logoColor=F24E1E)](https://www.figma.com/)
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=romain1298&show_icons=true&locale=en" alt="romain1298" /></p>
 
-
-## Quelques stats
-
-![Contributions GitHub](https://github-readme-stats.vercel.app/api?username=Romain1298&custom_title=Contributions%20GitHub&show_icons=true&locale=fr&count_private=true&hide=stars,issues&bg_color=0d1117&hide_border=true&icon_color=52BFEA&text_color=FFF&title_color=52BFEA)
-
- [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Romain1298&hide_border=true&locale=fr&background=0d1117&ring=52BFEA&stroke=52BFEA&fire=52BFEA&sideNums=FFFFFF&currStreakLabel=FFFFFF&sideLabels=FFFFFF&dates=FFFFFF&currStreakNum=FFFFFF)](https://git.io/streak-stats) 
-
-## Duck Army assembled! ⚔️🦆🪖
-<table>
-  <tr>
-    <td>
-      <img src="https://media.tenor.com/_-Y9OYD_cWwAAAAi/duck-bwong.gif" />
-    </td>
-    <td text-align="justify">
-      <p align="justify">
-        🦆🦆🦆🦆🦆🦆🦆🦆🦆🦆🦆🦆🦆🦆🦆🦆🦆🦆🦆🦆🦆🦆🦆🦆🦆🦆🦆🦆🦆🦆🦆🦆🦆🦆🦆🦆🦆🦆🦆🦆🦆🦆🦆🦆🦆🦆🦆🦆🦆🦆🦆🦆🦆🦆🦆🦆🦆🦆🦆🦆🦆🦆🦆🦆🦆🦆🦆🦆🦆🦆🦆🦆🦆🦆🦆🦆🦆🦆🦆🦆🦆🦆🦆🦆🦆🦆🦆🦆🦆🦆🦆🦆🦆🦆🦆🦆🦆🦆🦆🦆🦆🦆🦆🦆🦆🦆🦆🦆🦆🦆🦆🦆🦆🦆🦆🦆🦆🦆🦆🦆🦆🦆🦆🦆🦆🦆🦆🦆🦆🦆🦆🦆🦆🦆🦆🦆🦆🦆🦆🦆
-       </p>
-    </td>
-    <td>
-      <img src="https://media.tenor.com/_-Y9OYD_cWwAAAAi/duck-bwong.gif" />
-    </td>
-  </tr>
-
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=romain1298&" alt="romain1298" /></p>
