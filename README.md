@@ -37,3 +37,19 @@
 
  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Romain1298&hide_border=true&locale=fr&background=0d1117&ring=52BFEA&stroke=52BFEA&fire=52BFEA&sideNums=FFFFFF&currStreakLabel=FFFFFF&sideLabels=FFFFFF&dates=FFFFFF&currStreakNum=FFFFFF)](https://git.io/streak-stats) 
 
+## Duck Army assembled! ⚔️🦆🪖
+<table>
+  <tr>
+    <td>
+      <img src="https://media.tenor.com/_-Y9OYD_cWwAAAAi/duck-bwong.gif" />
+    </td>
+    <td text-align="justify">
+      <p align="justify">
+        🦆🦆🦆🦆🦆🦆🦆🦆🦆🦆🦆🦆🦆🦆🦆🦆🦆🦆🦆🦆🦆🦆🦆🦆🦆🦆🦆🦆🦆🦆🦆🦆🦆🦆🦆🦆🦆🦆🦆🦆🦆🦆🦆🦆🦆🦆🦆🦆🦆🦆🦆🦆🦆🦆🦆🦆🦆🦆🦆🦆🦆🦆🦆🦆🦆🦆🦆🦆🦆🦆🦆🦆🦆🦆🦆🦆🦆🦆🦆🦆🦆🦆🦆🦆🦆🦆🦆🦆🦆🦆🦆🦆🦆🦆🦆🦆🦆🦆🦆🦆🦆🦆🦆🦆🦆🦆🦆🦆🦆🦆🦆🦆🦆🦆🦆🦆🦆🦆🦆🦆🦆🦆🦆🦆🦆🦆🦆🦆🦆🦆🦆🦆🦆🦆🦆🦆🦆🦆🦆🦆
+       </p>
+    </td>
+    <td>
+      <img src="https://media.tenor.com/_-Y9OYD_cWwAAAAi/duck-bwong.gif" />
+    </td>
+  </tr>
+
