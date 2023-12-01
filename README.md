@@ -1,4 +1,8 @@
 <h1 align="center">Salut 👋, Je suis Romain1298</h1>
+
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+</div>
 <h3 align="center">Un développeur full-stack junior passionné, originaire de France</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=romain1298&label=Profile%20views&color=0e75b6&style=flat" alt="romain1298" /> </p>
