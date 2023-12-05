@@ -27,7 +27,7 @@
 
 - 📄 Connaître mes expériences. (6 certifications et + en cours)
 
-- ⚡ Fun fact **Je pense que killain ne sais même pas faire de l'HTML CSS correctement**
+- ⚡ Fun fact **Je pense que Killian ne sais même pas faire de l'HTML CSS correctement**
 
 <picture>
   <source
