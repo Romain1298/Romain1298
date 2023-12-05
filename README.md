@@ -27,7 +27,7 @@
 
 - 📄 Connaître mes expériences. (6 certifications et + en cours)
 
-- ⚡ Fun fact **Je pense que je suis drôle**
+- ⚡ Fun fact **Je pense que killain ne sais même pas faire HTML CSS correctement**
 
 <picture>
   <source
